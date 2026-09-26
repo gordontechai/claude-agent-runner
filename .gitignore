@@ -1,0 +1,6 @@
+*.log
+logs/
+_state/
+*.bak*
+.env
+.env.*
